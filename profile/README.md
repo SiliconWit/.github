@@ -1,6 +1,6 @@
 ## 👋 Welcome to SiliconWit 👨‍💻🔧
 
-[![SiliconWit Logo](https://github.com/SiliconWit/.github/images/SiliconWit_logo_boarder.png)]
+<img src="https://github.com/SiliconWit/.github/blob/master/images/SiliconWit_logo_boarder.png" alt="SiliconWit Logo" width="15" height="15">
 
 **About Us:**
 We're SiliconWit, a small startup navigating the realms of research, education, and product development in engineering, computing, and science. Our journey is marked by steady progress and meaningful contributions.
