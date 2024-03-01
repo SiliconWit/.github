@@ -1,6 +1,6 @@
 # 👋 Welcome to SiliconWit 👨‍💻🔧
 
-<img src="https://github.com/SiliconWit/.github/blob/master/images/SiliconWit_logo_boarder.png" alt="SiliconWit Logo" width="30" height="30">
+<img src="https://github.com/SiliconWit/.github/blob/master/images/SiliconWit_logo_boarder.png" alt="SiliconWit Logo" width="60" height="60">
 
 ## 🌐 About Us:
 We're SiliconWit, a small startup navigating the realms of research, education, and product development in engineering, computing, and science. Our journey is marked by steady progress and meaningful contributions.
@@ -16,8 +16,8 @@ We're SiliconWit, a small startup navigating the realms of research, education, 
 ### 📚 Championing Research and Education:
    - Beyond products, we're advocates for expanding the boundaries of knowledge. Engaging in research and education across engineering, computing, science, and the philosophy of science, we aim to inspire the next generation of thinkers.
 
-**Our Vision:**
-Envisioning a future where machines and minds collaborate harmoniously for the greater good, we advocate for safe and beneficial technology. Our commitment is to foster an environment where innovation is a force for positive change.
+## 🤝 Join the Journey:
+Consider becoming a part of our collaboration or supporting us through donations. Together, let's build a future where simple, practical innovation creates positive change. 💡🚀
 
 **Connect With Us:**
 - 🌐 Discord (SiWit): [Join Us](https://discord.gg/Qv2qguMJwK)
@@ -29,5 +29,5 @@ Envisioning a future where machines and minds collaborate harmoniously for the g
 - 🐦 Twitter: [SiliconWit on Twitter](https://www.twitter.com/siliconwit)
 - 🎵 TikTok: [SiliconWit on TikTok](https://www.tiktok.com/@siliconwit)
 
-**Join the Journey:**
-Consider becoming a part of our collaboration or supporting us through donations. Together, let's build a future where simple, practical innovation creates positive change. 💡🚀
+
+We envision a future where machines and minds collaborate harmoniously for the greater good, and advocate for safe and beneficial technology. Our commitment is to foster an environment where innovation is a force for positive change.
