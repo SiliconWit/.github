@@ -1,18 +1,19 @@
-## 👋 Welcome to SiliconWit 👨‍💻🔧
+# 👋 Welcome to SiliconWit 👨‍💻🔧
 
-<img src="https://github.com/SiliconWit/.github/blob/master/images/SiliconWit_logo_boarder.png" alt="SiliconWit Logo" width="15" height="15">
+<img src="https://github.com/SiliconWit/.github/blob/master/images/SiliconWit_logo_boarder.png" alt="SiliconWit Logo" width="30" height="30">
 
-**About Us:**
+## 🌐 About Us:
 We're SiliconWit, a small startup navigating the realms of research, education, and product development in engineering, computing, and science. Our journey is marked by steady progress and meaningful contributions.
 
-**What Sets Us Apart:**
-1. **Diverse Skill Set:**
+## What Sets Us Apart
+
+### 🚀 Diverse Skill Set:
    - Skilled in Mechanical CAD, PCB Design, Embedded Programming, Web/App Development, Mathematical Modeling and Simulation, and AI. Our varied expertise allows us to navigate the diverse landscapes of technology seamlessly.
 
-2. **Innovative Products:**
+### 🌟 Innovative Products:
    - From IoT-based devices enhancing connectivity to practical SaaS solutions, we strive to bring ideas to life. Our product line is crafted with simplicity and practicality, making technology accessible and impactful.
 
-3. **Championing Research and Education:**
+### 📚 Championing Research and Education:
    - Beyond products, we're advocates for expanding the boundaries of knowledge. Engaging in research and education across engineering, computing, science, and the philosophy of science, we aim to inspire the next generation of thinkers.
 
 **Our Vision:**
