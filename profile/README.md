@@ -4,7 +4,7 @@ SiliconWit helps you turn engineering ideas into working systems. We make practi
 
 Most learning stops at theory, and most deployed devices go quiet the moment they ship. We close both gaps. You build real skills on [SiliconWit.com](https://siliconwit.com), then take finished projects live on [SiliconWit.io](https://siliconwit.io), where they stream data, raise alerts, and keep running on their own.
 
-## Learn and Build, at [siliconwit.com](https://siliconwit.com)
+## 📚 Learn and Build, at [siliconwit.com](https://siliconwit.com)
 
 Free, project based courses in mechatronics, embedded systems, electronics, PCB design, and IoT.
 
@@ -12,7 +12,7 @@ Free, project based courses in mechatronics, embedded systems, electronics, PCB 
 - Learn by building hardware and software that actually runs.
 - Open access from anywhere, with no paywall standing between you and the skills.
 
-## Deploy and Operate, at [siliconwit.io](https://siliconwit.io)
+## 📡 Deploy and Operate, at [siliconwit.io](https://siliconwit.io)
 
 A connected operations platform that turns raw device data into decisions, so your operation stays under control even when you are not there.
 
@@ -23,12 +23,12 @@ A connected operations platform that turns raw device data into decisions, so yo
 
 Start free, and grow as your needs grow.
 
-## Also Worth a Look
+## ✨ Also Worth a Look
 
 - **Research:** open publications sharing our discoveries across engineering, computing, and science.
 - **Product Development:** open source tools, simulators, and connected hardware you can use and contribute to, spanning Mechanical CAD, PCB design, embedded programming, web and app development, and modeling and simulation.
 
-## Connect With Us
+## 🔗 Connect With Us
 
 - Main Website: [siliconwit.com](https://siliconwit.com)
 - LinkedIn: [SiliconWit on LinkedIn](https://www.linkedin.com/company/siliconwit)
